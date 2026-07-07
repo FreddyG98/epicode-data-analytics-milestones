@@ -1,0 +1,6 @@
+https://lookerstudio.google.com/reporting/acda6ef6-96eb-4ef4-bf86-941bcf1ba646
+
+
+Ho notato che dai dati che ci sono stati forniti erano presenti poche informazioni, a tratti inventate oppure distorte e senza alcuna spiegazione, di conseguenza ho deciso di cercare altri dataset dal web, notando che non ce n'è sono di altri. Cosi ho deciso di creare dei dataset per conto mio estraendo le informazioni da Wikipedia, per quanto possibile, e metterle a disposizione di tutti tramite GitHub:
+
+https://github.com/FreddyG98/Dataset-Sanremo-dal-1951-al-2023-25
