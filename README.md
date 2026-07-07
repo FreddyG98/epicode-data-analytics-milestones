@@ -40,4 +40,4 @@ La repository è organizzata in base alle verifiche ufficiali superate per ogni 
 
 ## 🛠️ Tech Stack Consolidato
 * **Linguaggi:** SQL, Python, DAX
-* **Software & Tool:** Microsoft Power BI, Microsoft Excel (Power Query), Google Looker Studio, VS Code
+* **Software & Tool:** Microsoft Excel (Power Query), MySQL, Google Looker Studio, Microsoft Power BI
